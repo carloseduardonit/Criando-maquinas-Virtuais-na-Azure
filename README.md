@@ -1,6 +1,6 @@
 # Microsoft Azure - Criando máquinas Virtuais na Azure
 
-[Acessar curso](https://web.dio.me/lab/computacao-da-nuvem-laboratorio/learning/6d6083cf-0291-428d-a5f2-c93166e6874d)
+[Acessar curso](https://web.dio.me/lab/beneficios-da-nuvem-laboratorio/learning/6a23ad75-e88b-4fc0-a291-6d4006cd7239)
 
 ## Entendendo o Desafio:
 
